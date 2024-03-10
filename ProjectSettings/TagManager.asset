@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Object
+  - Interactable
+  - BattleZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Village
+    uniqueID: 1345685527
+    locked: 0
+  - name: Background
+    uniqueID: 3730071483
+    locked: 0
+  - name: Background 2
+    uniqueID: 2037529757
+    locked: 0
+  - name: Foreground
+    uniqueID: 4239261337
+    locked: 0
+  - name: Player
+    uniqueID: 2692565995
+    locked: 0

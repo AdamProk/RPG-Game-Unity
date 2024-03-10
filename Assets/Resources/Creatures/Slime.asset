@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a0ad409422b5a45aa2942c53bb7315, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  name: Slime
+  description: Shapeshifting, gelatinous, amorphous creatures that prey on other
+    creatures
+  sprite: {fileID: -1559727663, guid: 0981586de5742f748add85700f13680f, type: 3}
+  maxHp: 50
+  attack: 5
+  defense: 5
+  xpYield: 100
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f26269f5d7e67224db87e7c0a4e49e22, type: 2}
+    level: 1
