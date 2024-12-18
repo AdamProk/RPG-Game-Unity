@@ -31,6 +31,7 @@ W aplikacji zaimplementowane są:
 ###Mapa światu gry
 ![image](https://github.com/user-attachments/assets/1a9e1c03-c275-49b2-9fad-699a83518368)
 
+
 ###Teren rozgrywki
 ![image](https://github.com/user-attachments/assets/1f825054-5e00-41cf-8c6f-2200300ff25b)
 
@@ -66,7 +67,9 @@ W aplikacji zaimplementowane są:
 
 ##Źródła
 *https://pixivan.itch.io/top-down-forest-tileset
+
 *https://opengameart.org/
+
 *https://itch.io/
 
 
