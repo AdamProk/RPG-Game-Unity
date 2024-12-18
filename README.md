@@ -3,19 +3,19 @@
 Mała gra RPG utworzona w Unity
 
 
-##Opis
+## Opis
 ***
 Jest to gra RPG z zaimplementowanym turowym systemem walki.
 
 
-##Użyte technologie
+## Użyte technologie
 ***
 Technologie użyte w projekcie:
 *Unity
 *C#
 
 
-##Działanie gry
+## Działanie gry
 ***
 Gracz prousza się za pomocą klawiszy AWSD lub strzałek. Aby rozpocząć interakcję lub zatwierdzić wybór należy wcisnąć spację.
 W aplikacji zaimplementowane są:
@@ -26,13 +26,13 @@ W aplikacji zaimplementowane są:
 * Wzmacnianie postaci poprzez doświadczenie zdobyte po pokonaniu potwora
   
 
-##Zrzuty ekranu z gry
+## Zrzuty ekranu z gry
 
-###Mapa światu gry
+### Mapa światu gry
 ![image](https://github.com/user-attachments/assets/1a9e1c03-c275-49b2-9fad-699a83518368)
 
 
-###Teren rozgrywki
+### Teren rozgrywki
 ![image](https://github.com/user-attachments/assets/1f825054-5e00-41cf-8c6f-2200300ff25b)
 
 ![image](https://github.com/user-attachments/assets/155096b7-04ae-4436-a03e-d816ad1640fe)
@@ -49,7 +49,7 @@ W aplikacji zaimplementowane są:
 
 ![image](https://github.com/user-attachments/assets/a0b034ee-cf0f-4ae0-84e8-f8bb06916e23)
 
-###Walka z przeciwnikiem
+### Walka z przeciwnikiem
 ![image](https://github.com/user-attachments/assets/d65b4df0-02b6-4f43-9acb-7d91fe6366c8)
 
 ![image](https://github.com/user-attachments/assets/2da4a6ef-1e74-44e8-9469-147a3b6b4b96)
@@ -65,7 +65,7 @@ W aplikacji zaimplementowane są:
 ![image](https://github.com/user-attachments/assets/bebff672-be51-4fe4-b678-7ca345c7ffbb)
 
 
-##Źródła
+## Źródła
 *https://pixivan.itch.io/top-down-forest-tileset
 
 *https://opengameart.org/
