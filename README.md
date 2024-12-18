@@ -1,11 +1,13 @@
 # RPG-Game-Unity
 ***
 Mała gra RPG utworzona w Unity
+***
 
 
 ## Opis
 ***
 Jest to gra RPG z zaimplementowanym turowym systemem walki.
+***
 
 
 ## Użyte technologie
@@ -13,6 +15,7 @@ Jest to gra RPG z zaimplementowanym turowym systemem walki.
 Technologie użyte w projekcie:
 *Unity
 *C#
+***
 
 
 ## Działanie gry
@@ -24,7 +27,8 @@ W aplikacji zaimplementowane są:
 * Przypadkowe spotkanie wywołujące walkę
 * Walka turowa z przeciwnikiem
 * Wzmacnianie postaci poprzez doświadczenie zdobyte po pokonaniu potwora
-  
+***
+
 
 ## Zrzuty ekranu z gry
 
